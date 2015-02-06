@@ -11,4 +11,3 @@ To get started:
 * PORT=3000 go run main.go
 
 Deployable to Heroku with the excellent guide here: https://mmcgrana.github.io/2012/09/getting-started-with-go-on-heroku.html
-Thanks to the excellent 
